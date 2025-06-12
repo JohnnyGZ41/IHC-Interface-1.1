@@ -1,4 +1,6 @@
-
+html, body {
+    cursor: none;
+}
 body{
     height: 58.59rem;
     background: #0c001f;
@@ -162,6 +164,7 @@ padding-right: 1.5rem ;
     font-size: 2.5rem;
     font-family: 'Poppins', sans-serif;
     animation: fadeInUp 1s ease-out;
+    cursor: none;
 }
 
 .instrucciones {
@@ -173,6 +176,7 @@ padding-right: 1.5rem ;
     line-height: 1.7;
     font-family: 'Poppins', sans-serif;
     animation: fadeInUp 1s ease-out;
+    cursor: none;
 }
 .instrucciones p {
     font-size: 1rem;
@@ -208,6 +212,7 @@ padding-right: 1.5rem ;
     font-size: 2.5rem;
     font-family: 'Poppins', sans-serif;
     animation: fadeInUp 1s ease-out;
+    cursor: none;
 }
 
 .respuestas {
@@ -219,6 +224,7 @@ padding-right: 1.5rem ;
     line-height: 1.7;
     font-family: 'Poppins', sans-serif;
     animation: fadeInUp 1s ease-out;
+    cursor: none;
 }
 .respuestas p {
     font-size: 1rem;
@@ -240,4 +246,5 @@ padding-right: 1.5rem ;
     font-size: 2.5rem;
     font-family: 'Poppins', sans-serif;
     animation: fadeInUp 1s ease-out;
+    cursor: none;
 }
